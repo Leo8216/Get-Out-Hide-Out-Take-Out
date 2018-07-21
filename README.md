@@ -21,12 +21,14 @@ To answer this, we estimated the number of restrictive and permissive gun laws p
 
 ### Is there a correlation between education quality and gun violence?
 
-From the US school systems data, we obtained a ranking score for overall performance of states school systems, and plotted it vs the number of Killed per Million people in the state. There seems to be a correlation between them. When performance ranking > 60%, the # of people killed is less than 200 per million people in the state. This might open the debate about government focusing on education (schools) more than in correction (prisons)?
+From the US school systems data, we obtained a ranking score for overall performance of states school systems, and plotted it versus the number of Killed per Million people in the state. There seems to be a correlation between them. When performance ranking > 60%, the # of people killed is less than 200 per million people in the state. This might open the debate about government focusing on education (schools) more than in correction (prisons)?
 
 ![Image of State_Education_vs_State_Gun_Violence](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/State_Education_vs_State_Gun_Violence.png)
 
 ### How about drug abuse and gun violence?
 The visual of gun violence incidents vs. deaths by overdose for 2014 (data readily available for that specific year) shows a linear relation. From talking to a close friend that has spent years working for DEA, this is not a surprise as illegal activities are heavily correlated especially those involving the consumption of legal and illegal drugs for "recreational" purposes.
+
+![Image of Overdose_Deaths_vs_Gun_Violence](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/State_Education_vs_State_Gun_Violence.png)
 
 ## Required Imports
 This was run in Python 3.6
