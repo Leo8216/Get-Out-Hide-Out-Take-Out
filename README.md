@@ -13,12 +13,6 @@ From the Gun Violence dataset, we were able to compare all the states by adding 
 
 ![Image of US Gun Violence Top 15 States 2013 to 2018 data Both](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/US_Gun_Violence_Top_15_States_2013-2018_data_pM.png)
 
-### Which locations are more prone to have a gun violence incident?
-
-The image below was generated from the top 50 gun violence incidents locations. At first, we expected locations such as "Bar" and "Motel" to be in the top and it did not cross our minds that "Intl Airport" would be there, however data proved our intuition wrong. We were most shocked to see that "Elementary", "Middle" and "High school" show up in the top 50 as you think of these as safe places full of innocent beings.
-
-![Image of Crime_Location_WordCloud](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/tree/master/images/Crime_Location_WordCloud.png)
-
 ### Do states with the higher number of restrictive laws have less gun violence?
 
 To answer this, we estimated the number of restrictive and permissive gun laws per state from the US gun laws dataset, and plotted it next to the killed per million by state. The District of Columbia (most killed per Million People) only has 1 permissive law vs 13 restrictive laws. On the other hand, California, the state with the most restrictive laws (27 per this dataset, and only 2 permissive ones) does not rank in the bottom 25%. This could mean restrictive laws are not necessarily impacting gun violence as many expect them to.
