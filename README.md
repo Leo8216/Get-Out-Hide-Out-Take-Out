@@ -11,25 +11,25 @@ The title of this repository *"Get-Out-Hide-Out-Take-Out"* gives you an idea of 
 
 From the Gun Violence dataset, we were able to compare all the states by adding up all the deaths and injuries for each state (for the time frame data was collected), and sorting from largest to smallest.  Our findings seemed biased towards the more populated states, so we plotted these numbers on a per million people basis. The results show that when looking at the deaths and injuries on a per million basis, California, Texas, Florida, Illinois and Ohio are NO longer at the top 5 for either deaths or injuries, and shows the District of Columbia is the most violent state per both metrics, deaths and injuries per million people in the state.
 
-![Image of US Gun Violence Top 15 States 2013 to 2018 data Both](https://octodex.github.com/images/US_Gun_Violence_Top_15_States_2013-2018_data_Both.png)
+![Image of US Gun Violence Top 15 States 2013 to 2018 data Both](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/tree/master/images/US_Gun_Violence_Top_15_States_2013-2018_data_Both.png)
 
 ### Which locations are more prone to have a gun violence incident?
 
 This one was easy: WordCloud. The image below was generated from the top 50 gun violence incidents locations. Many of which we expected to see such as *"Bar"* and *"Motel"*. One odd one was *"Intl Airport"*, but we were most shocked to see that *"Elementary"*, "*Middle"* and "*High school"* show up in the top 50.
 
-![Image of Crime_Location_WordCloud](https://octodex.github.com/images/Crime_Location_WordCloud.png)
+![Image of Crime_Location_WordCloud](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/tree/master/images/Crime_Location_WordCloud.png)
 
 ### Do states with the higher number of restrictive laws have less gun violence?
 
 To answer this, we estimated the number of restrictive and permissive gun laws per state from the US gun laws dataset (*see details for all datasets used under the dataset section*), and plotted it next to the killed per million by state.  The distrcit of Columbia (most killed per Million People) only has 1 permissive law vs 13 restrictive laws.  On the other hand, California, the state with the most restrctive laws (27 per this dataset, and only 2 permissive ones) does not rank in the bottom 25%.  This could mean restrictive laws are not necessarily impacting gun violence as many expect tehm to.
 
-![Image of Gun_Kills_vs_Gun_Laws](https://octodex.github.com/images/Gun_Kills_vs_Gun_Laws.png)
+![Image of Gun_Kills_vs_Gun_Laws](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/tree/master/images/Gun_Kills_vs_Gun_Laws.png)
 
 ### Is there a correlation between education quality and gun violence?
 
 From the US school systems data, we obtained a ranking score for overall performance of states school systems, and plotted it vs the number of Killed per Million people in the state. There seems to be a correlation between them. The state with The result show that when performance ranking > 60%, the # of people killed is less than 200 per million people in the state. Maybe we should focus on bringing performance rank for all school systems above 60%, would that lead to a massive decrease of gun violence?
 
-![Image of State_Education_vs_State_Gun_Violence](https://octodex.github.com/images/State_Education_vs_State_Gun_Violence.png)
+![Image of State_Education_vs_State_Gun_Violence](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/tree/master/images/State_Education_vs_State_Gun_Violence.png)
 
 ## Required Imports
 This was run in Python 3.6
