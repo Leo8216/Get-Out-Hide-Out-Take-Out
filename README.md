@@ -11,7 +11,7 @@ The title of this repository "Get-Out-Hide-Out-Take-Out" gives you an idea of th
 
 From the Gun Violence dataset, we were able to compare all the states by adding up all the deaths and injuries for each state (for the time frame data was collected). Our findings seemed biased towards the more populated states, so we plotted these numbers on a per million people basis. The results show that when looking at the deaths and injuries on a per million basis, California, Texas, Florida, Illinois and Ohio are NO longer at the top 5 for either deaths or injuries, and shows the District of Columbia is the most violent place per both metrics, deaths and injuries per million people.
 
-![Image of US Gun Violence Top 15 States 2013 to 2018 data Both](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/tree/master/images/US_Gun_Violence_Top_15_States_2013-2018_data_Both.png)
+![Image of US Gun Violence Top 15 States 2013 to 2018 data Both](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/US_Gun_Violence_Top_15_States_2013-2018_data_pM.png)
 
 ### Which locations are more prone to have a gun violence incident?
 
