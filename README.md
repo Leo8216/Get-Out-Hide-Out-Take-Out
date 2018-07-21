@@ -28,7 +28,7 @@ From the US school systems data, we obtained a ranking score for overall perform
 ### How about drug abuse and gun violence?
 The visual of gun violence incidents vs. deaths by overdose for 2014 (data readily available for that specific year) shows a linear relation. From talking to a close friend that has spent years working for DEA, this is not a surprise as illegal activities are heavily correlated especially those involving the consumption of legal and illegal drugs for "recreational" purposes.
 
-![Image of Overdose_Deaths_vs_Gun_Violence](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/State_Education_vs_State_Gun_Violence.png)
+![Image of Overdose_Deaths_vs_Gun_Violence](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/Overdose_Deaths_vs_Gun_Violence.png)
 
 ## Required Imports
 This was run in Python 3.6
