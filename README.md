@@ -13,6 +13,12 @@ From the Gun Violence dataset, we were able to compare all the states by adding 
 
 ![Image of US Gun Violence Top 15 States 2013 to 2018 data Both](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/US_Gun_Violence_Top_15_States_2013-2018_data_pM.png)
 
+### Which are the worst incidents of gun violence in recent history?
+
+We took advantage of the data providing location by longitude and latitude. The visual below shows the top 50 incidents that claimed more lives. As a note for the reader, the data does not include the unfortunate incident that happened in October 2017 in Las Vegas Nevada.
+
+![Image of US Gun Violence Top 15 States 2013 to 2018 data Both](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/US_Gun_Violence_Top_15_States_2013-2018_data_pM.png)
+
 ### Do states with the higher number of restrictive laws have less gun violence?
 
 To answer this, we estimated the number of restrictive and permissive gun laws per state from the US gun laws dataset, and plotted it next to the killed per million by state. The District of Columbia (most killed per Million People) only has 1 permissive law vs 13 restrictive laws. On the other hand, California, the state with the most restrictive laws (27 per this dataset, and only 2 permissive ones) does not rank in the bottom 25%. This could mean restrictive laws are not necessarily impacting gun violence as many expect them to.
