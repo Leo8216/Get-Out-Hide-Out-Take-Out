@@ -23,7 +23,7 @@ The image below was generated from the top 50 gun violence incidents locations. 
 
 To answer this, we estimated the number of restrictive and permissive gun laws per state from the US gun laws dataset, and plotted it next to the killed per million by state. The District of Columbia (most killed per Million People) only has 1 permissive law vs 13 restrictive laws. On the other hand, California, the state with the most restrictive laws (27 per this dataset, and only 2 permissive ones) does not rank in the bottom 25%. This could mean restrictive laws are not necessarily impacting gun violence as many expect them to.
 
-![Image of Gun_Kills_vs_Gun_Laws](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/tree/master/images/Gun_Kills_vs_Gun_Laws.PNG)
+![Image of Gun_Kills_vs_Gun_Laws](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/State_Education_vs_State_Gun_Violence.png)
 
 ### Is there a correlation between education quality and gun violence?
 
