@@ -22,7 +22,7 @@ We took advantage of the data providing location by longitude and latitude. The 
 
 ### Do states with the higher number of restrictive laws have less gun violence?
 
-To answer this, we estimated the number of restrictive and permissive gun laws per state from the US gun laws dataset, and plotted it next to the killed per million by state. The District of Columbia (most killed per Million People) only has 1 permissive law vs 13 restrictive laws. On the other hand, California, the state with the most restrictive laws (27 per this dataset, and only 2 permissive ones) does not rank in the bottom 25%. This could mean restrictive laws are not necessarily impacting gun violence as many expect them to.
+To answer this, we estimated the number of restrictive and permissive gun laws per state from the US gun laws dataset, and plotted it next to the killed per million by state. The District of Columbia (most killed per Million People) only has 1 permissive law vs 13 restrictive laws. On the other hand, California, the state with the most restrictive laws (27 per this dataset), and only 2 permissive ones, does not rank in the bottom 25%. This could mean restrictive laws are not necessarily impacting gun violence as many expect them to.
 
 ![Image of Gun_Kills_vs_Gun_Laws](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/Gun_Kills_vs_Gun_Laws.PNG)
 
