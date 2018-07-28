@@ -18,7 +18,7 @@ From the Gun Violence dataset, we were able to compare all the states by adding 
 We took advantage of the data providing location by longitude and latitude. The visual below shows the top 50 incidents that claimed more lives. As a note for the reader, the data does not include the unfortunate incident that happened in October 2017 in Las Vegas Nevada.
 
 
-![Image of Location_of_top_50_deadliest_incidents](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/Location_of_top_50_deadliest_incidents.png)
+![Image of Location_of_top_50_impactful acts](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/Location_of_top_50_impactful_acts.png)
 
 ### Do states with the higher number of restrictive laws have less gun violence?
 
