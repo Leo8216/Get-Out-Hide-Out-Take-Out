@@ -16,7 +16,7 @@ Using the Gun Violence dataset, we compared the US states by adding up all the d
 
 ### Which are the worst incidents of gun violence in recent history and where did they happen? 
 
-The Gun Violence dataset provided location data by longitude and latitude for each violent act. The visual above shows the top 50 violent acts that where most impactful, measuring impact as the sum of people killed and people injured. Notice only one of the top 50 violent acts happened in the North-West. As a note for the reader, the data does not include the unfortunate incident that happened in October 2017 in Las Vegas Nevada.
+The Gun Violence dataset provided location data by longitude and latitude for each violent act. The visual below shows the top 50 violent acts that where most impactful, measuring impact as the sum of people killed and people injured. Notice only one of the top 50 violent acts happened in the North-West. As a note for the reader, the data does not include the unfortunate incident that happened in October 2017 in Las Vegas Nevada.
 
 ![Image of Location_of_top_50_impactful acts](https://github.com/Leo8216/Get-Out-Hide-Out-Take-Out/blob/master/images/Location_of_top_50_impactful_acts.png)
 
