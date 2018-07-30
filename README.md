@@ -1,6 +1,6 @@
 # Get-Out-Hide-Out-Take-Out
 
-Exploration of Gun Violence in the USA utilizing multiple datasets from different sources. Gun Violence data, Gun Laws data, School System data and U.S. Opiate Prescriptions/Overdoses data are explored using python 3.6. Unless specified otehrwise, the time frame for all visualizations is from 2013 to 2018 Quarter 1.
+Exploration of Gun Violence in the USA utilizing multiple datasets from different sources. Gun Violence data, Gun Laws data, School System data and U.S. Opiate Prescriptions/Overdoses data are explored using python 3.6. Unless otherwise specified, the time frame for all visualizations is from 2013 to 2018 Quarter 1.
 
 ## Summary & Insights
 
